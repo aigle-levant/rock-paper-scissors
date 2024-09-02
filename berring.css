@@ -1,0 +1,30 @@
+:root
+{
+    --bg: #000009;
+    --header: #0FF4C6;
+    --flavour-text: #464F51;
+    --text: #DEFFF2;
+    --announce: #D68FD6;
+}
+body
+{
+    font-size: 16px;
+    background-color: #000009;
+    margin: 0 auto;
+}
+#header, #flavour-text
+{
+    text-align: center;
+}
+#header
+{
+    text-align: center;
+    color: #0FF4C6;
+    font-size: 2.5rem;
+    padding: 0.7rem;
+}
+#flavour-text
+{
+    color: #464F51;
+    font-size: 1rem;
+}
